@@ -1,0 +1,36 @@
+# Archivos generados por Django
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Directorios generados por Django
+__pycache__
+
+
+# Archivos generados por Node.js
+node_modules/
+npm-debug.log
+
+
+# Archivos de registro
+logs/
+*.log
+
+# Archivos generados por sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación, como los generados por webpack o parcel
+/dist/
+/build/
+
+# Archivos de respaldo y temporales
+*.bak
+*.swp
+*~
+
+# Otros
+*.idea/
+.vscode/
